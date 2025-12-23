@@ -25,7 +25,7 @@ html {
 }
 
 #background-resto {
-    background-image: url("image/latar-kayu-putih.png");
+    background-image: url(image/latar-kayu-putih.png);
     background-size: auto; /* tinggi menyesuaikan konten */
     background-repeat: no-repeat;
     max-width: 990px;
